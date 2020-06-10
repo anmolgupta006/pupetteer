@@ -46,7 +46,6 @@ provider:
 #    - exclude-me.js
 #    - exclude-me-dir/**
 
-#asdasdadasd test
 functions:
   hello:
     handler: handler.hello
